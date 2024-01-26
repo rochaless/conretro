@@ -33,7 +33,7 @@ body, html {
 
 #header__navbar__logo {
     padding-top: 110px;
-    padding-left: 100px;
+    padding-left: 80px;
 }
 
 #header__navbar__logo img {
@@ -148,7 +148,7 @@ body, html {
     background-color: #7b8b22;
     padding-left: 120px;
     font-family: Montserrat;
-    font-size: 32px;
+    font-size: 28px;
 }
 
 .contato {
